@@ -21,11 +21,13 @@ Practice SQL joins, aggregations, and NULL handling
 Visualize insights using Python
 
 🧰 Tools & Technologies Used
+
 🔹 Languages
 
 SQL
 
 Python
+
 
 🔹 Libraries
 
@@ -36,6 +38,7 @@ matplotlib
 seaborn
 
 sqlite3 / database connector
+
 
 🔹 Skills Demonstrated
 
